@@ -1,6 +1,6 @@
 # Cardiovascular Disease Analysis
 
-## 📊 Projektübersicht
+##  Projektübersicht
 
 Dieses Projekt analysiert einen Datensatz mit **70.000 Patientendatensätzen**, um kardiovaskuläre Erkrankungen und verschiedene gesundheitliche Risikofaktoren zu untersuchen.
 
@@ -8,7 +8,7 @@ Die Analyse wurde mit **Microsoft Excel** durchgeführt.
 
 ---
 
-## 🎯 Ziel des Projekts
+##  Ziel des Projekts
 
 Ziel des Projekts ist es, wichtige Gesundheitsindikatoren zu analysieren und mögliche Zusammenhänge mit kardiovaskulären Erkrankungen übersichtlich darzustellen.
 
@@ -27,7 +27,7 @@ Untersucht wurden:
 
 ---
 
-## 🛠️ Verwendete Technologien
+##  Verwendete Technologien
 
 - Microsoft Excel
 - Power Query
@@ -39,7 +39,7 @@ Untersucht wurden:
 
 ---
 
-## 🔄 Datenaufbereitung
+##  Datenaufbereitung
 
 Die Daten wurden mit **Power Query** aufbereitet.
 
@@ -54,7 +54,7 @@ Durchgeführte Schritte:
 
 ---
 
-## 📈 KPI-Übersicht
+##  KPI-Übersicht
 
 Das Dashboard enthält folgende zentrale Kennzahlen:
 
@@ -68,7 +68,7 @@ Das Dashboard enthält folgende zentrale Kennzahlen:
 
 ---
 
-## 📊 Visualisierungen
+##  Visualisierungen
 
 ### Cardiovascular Disease Status
 
@@ -92,7 +92,7 @@ Analyse der kardiovaskulären Erkrankungen nach Raucherstatus.
 
 ---
 
-## 📂 Repository-Struktur
+##  Repository-Struktur
 
 ```text
 Cardiovascular-Disease-Analysis/
@@ -107,9 +107,9 @@ Cardiovascular-Disease-Analysis/
 │   └── Cardiovascular_Disease_Dashboard.png
 │
 └── README.md
-📷 Dashboard
+ Dashboard
 
-💡 Projektergebnisse
+ Projektergebnisse
 
 Das Projekt zeigt die praktische Anwendung von:
 
@@ -120,10 +120,8 @@ PivotTables
 PivotCharts
 Dashboard-Entwicklung
 Datenvisualisierung
-👩‍💻 Autorin
+ Autorin
 
 Anitha Doddavula
 
-Junior Data Analyst | SQL | Python | Power BI | Microsoft Fabric | Excel
 
-🔗 GitHub-Profil
